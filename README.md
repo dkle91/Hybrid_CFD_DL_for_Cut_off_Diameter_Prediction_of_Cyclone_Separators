@@ -1,0 +1,2 @@
+# Hybrid_CFD_DL_for_Cut_off_Diameter_Prediction_of_Cyclone_Separators
+This repository provide the source code of the proposed hybrid CFD-DL method for improving cut-off diamater prediction of coarse-grid simulations for cyclone separators of the the research "A hybrid CFD – Deep Learning methodology to improve the accuracy of cut-off diameter prediction in coarse-grid simulations for cyclone separators"
